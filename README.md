@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, AR/VR, Machine learning  </br> 
       mobile and web application development, RPA, </br>
       Accessibility, UI/UX, cloud computing and security.
-- 🌱 I’m currently learning by experiences</br>
+- 🌱 I’m currently learning by solving problems</br>
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 Email: mbithievans98@gmail.com / evholmbithy@gmail.com
 - Tel: +254 710 631 370
