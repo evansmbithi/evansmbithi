@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Evans mbithi
-- 👀 I’m interested in AI, computer vision, Machine learning  </br> 
-      mobile and web application development.
+- 👀 I’m interested in AI, AR/VR, Machine learning  </br> 
+      mobile and web application development, RPA, </br>
+      Accessibility, UI/UX, cloud computing and security.
 - 🌱 I’m currently learning by experiences</br>
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 Email: mbithievans98@gmail.com / evholmbithy@gmail.com
