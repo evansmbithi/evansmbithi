@@ -3,6 +3,10 @@
       mobile and web application development, RPA, </br>
       Accessibility, UI/UX, cloud computing and security.
 - 🌱 I’m currently learning by solving problems</br>
+
+DISCLAIMER: I do not publish client work in public repositories. </br>
+            All that there is to see here are hobby projects! </br>
+
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 Email: mbithievans98@gmail.com / evholmbithy@gmail.com
 - Tel: +254 710 631 370
