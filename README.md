@@ -1,12 +1,12 @@
-- 👋 Hi, My name is Evans Mbithi, an (API-first) software engineer based in Nairobi, Kenya. <br/>
+👋 Hi, My name is Evans Mbithi, an (API-first) software engineer based in Nairobi, Kenya. <br/>
       I have a background in software and cloud, as well as testing and deployment, <br/>
       with a Bachelor's Degree in Applied Computer Science. 
       
-- 👀 I do awesome stuff in AI, AR/VR, Machine learning  </br> 
+👀 I do awesome stuff in AI, AR/VR, Machine learning  </br> 
       mobile and web, RPA, Accessibility,</br>
       cloud computing and security.
       
-- 🌱 I’m currently learning by solving problems</br>
+🌱 I’m currently learning by solving problems</br>
 
 - Stack: Scala | Python | JavaScript | C++ | GCP | Azure
 
