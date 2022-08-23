@@ -8,6 +8,8 @@
       
 - 🌱 I’m currently learning by solving problems</br>
 
+- Stack: Scala | Python | JavaScript | C++ | GCP | Azure
+
 DISCLAIMER: I do not publish client work in public repositories. </br>
             All that there is to see here are hobby projects! </br>
 
