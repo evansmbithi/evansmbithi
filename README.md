@@ -1,10 +1,14 @@
 👋 Hi, My name is Evans Mbithi, an (API-first) software engineer based in Nairobi, Kenya. <br/>
-      I have a background in software and cloud, as well as testing and deployment, <br/>
-      with a Bachelor's Degree in Applied Computer Science. 
+      I exercise concepts of computer systems to design, develop and test software <br/>
+      applications that meet end-user requirements. I also help companies comply with <br/>
+      industry standard and cutting-edge technologies. Hence driving digital transformation <br/> 
+      and making businesses more profitable. 
       
-👀 I do awesome stuff in AI, AR/VR, Machine learning  </br> 
-      mobile and web, RPA, Accessibility,</br>
-      cloud computing and security.
+👀 I am mostly fascinated about the actor model of concurrency with scala - a scalable language <br/> 
+      that compiles on the JVM. I fell in love with scala because it addresses the demanding needs <br/> 
+      of modern systems, that common programming practices do not properly address, especially in this <br/> 
+      era of cloud computing and scalability. Aside from that I have had fun building with python, <br/> 
+      javascript and PHP for hobby projects and freelance. 
       
 🌱 I’m currently learning by solving problems</br>
 
