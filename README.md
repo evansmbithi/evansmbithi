@@ -15,7 +15,7 @@
 - Stack: Scala | Python | JavaScript | C++ | GCP | Azure
 
 DISCLAIMER: I do not publish client work in public repositories. </br>
-            All that there is to see here are hobby projects! </br>
+            Everything available here is a hobby project! </br>
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 - Email: mbithievans98@gmail.com
