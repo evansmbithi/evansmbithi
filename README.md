@@ -6,9 +6,8 @@
       
 👀 I am mostly fascinated about the actor model of concurrency with scala - a scalable language
       that compiles on the JVM. I fell in love with scala because it addresses the demanding needs
-      of modern systems, that common programming practices do not properly address, especially in this
-      era of cloud computing and scalability. Aside from that I have had fun building with python, 
-      javascript and PHP for hobby projects and freelance. 
+      of modern systems, that common programming practices do not properly address. Aside from that 
+      I have had fun building with python, javascript and PHP for hobby projects and freelance. 
       
 🌱 I’m currently learning by solving problems</br>
 
