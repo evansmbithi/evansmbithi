@@ -1,4 +1,4 @@
-👋 Hi, My name is Evans Mbithi, an (API-first) software engineer based in Nairobi, Kenya.
+👋 Hi, My name is Evans Mbithi, an API-first software engineer based in Nairobi, Kenya.
       I exercise concepts of computer systems to design, develop and test software
       applications that meet end-user requirements. I also help companies comply with
       industry standard and cutting-edge technologies. Hence driving digital transformation 
