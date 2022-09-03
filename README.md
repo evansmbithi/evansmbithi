@@ -1,8 +1,6 @@
-👋 Hi, My name is Evans Mbithi, an API-first software engineer based in Nairobi, Kenya.
-      I exercise concepts of computer systems to design, develop and test software
-      applications that meet end-user requirements. I also help companies comply with
-      industry standard technologies. Hence driving digital transformation 
-      and making businesses more profitable. 
+👋 Hi, My name is Evans Mbithi, an API-first software engineer, and problem-solver, based in Nairobi, Kenya.
+      I design, develop and test software applications that meet end-user requirements at scale. I also help companies comply with
+      industry standard technologies. Hence driving digital transformation and making businesses more profitable. 
       
 👀 I am mostly fascinated about the actor model of concurrency with Scala - a scalable language
       that compiles on the JVM. I fell in love with Scala because it addresses the demanding (scalability) needs
