@@ -11,11 +11,9 @@
 
 - Stack: Scala | Python | JavaScript |
 
-DISCLAIMER: I do not publish client work in public repositories. </br>
-            Everything available here is a hobby project! </br>
+Check out the stuff I make in my free time
 
 <!-- 💞️ I’m looking to collaborate on ... -->
-- Email: mbithievans98@gmail.com
 - LinkedIn: www.linkedin.com/in/evansmbithi
 - Website: www.mbithi.rocks
 
