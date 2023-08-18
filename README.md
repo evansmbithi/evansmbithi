@@ -11,7 +11,7 @@
 
 - Stack: Scala | Python | JavaScript |
 
-Check out the stuff I make in my free time
+Check out stuff that I make in my free time.
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 - LinkedIn: www.linkedin.com/in/evansmbithi
