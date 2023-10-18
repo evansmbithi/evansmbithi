@@ -1,6 +1,5 @@
 👋 Hi, My name is Evans Mbithi, a cloud-native and API-driven problem-solver, based in Nairobi, Kenya.
-      I design, develop, test and deploy software applications that meet end-user requirements at scale. I also assist companies adapt to
-      industry standard technologies. Hence driving digital transformation and making businesses more profitable. 
+      I write purpose-driven code and believe in tech as a force for good. No better way to live my purpose than using my skills for the glory of God. 
       
 👀 I am mostly fascinated about the actor model of concurrency with Scala - a scalable language
       that compiles on the JVM. I fell in love with Scala because it addresses the demanding (scalability) needs
@@ -9,7 +8,7 @@
       
 🌱 I’m currently learning by solving problems</br>
 
-- Stack: Scala | Python | JavaScript |
+- Stack: Scala | Python | JavaScript | Java
 
 Check out stuff that I make in my free time.
 
