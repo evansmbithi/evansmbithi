@@ -1,5 +1,5 @@
 👋 Hi, My name is Evans Mbithi, a cloud-native and API-first problem solver, based in Nairobi, Kenya.
-      I see technology as a force for good, and therefore write purpose-oriented code. I find joy in using my skills to further a cause greater than myself. 
+      I see technology as a force for good, and therefore write purpose-oriented code. I delight in using my skills to further a cause greater than myself. 
       
 👀 I am mostly fascinated about the actor model of concurrency with Scala - a scalable language
       that compiles on the JVM. I fell in love with Scala because it addresses the demanding (scalability) needs
